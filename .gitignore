@@ -1,0 +1,10 @@
+# 1. Ignore absolutely everything
+*
+
+# 2. Allow directories so Git can scan them
+!*/
+
+# 3. Allow your specific files
+!.gitignore
+!BHCCCode-*.zip
+!README.md
