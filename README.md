@@ -16,21 +16,21 @@ installs the editor extensions configured by the release maintainer.
 
 ## Windows
 
-1. Download [BHCCCode-Windows.zip](BHCCCode-Windows.zip).
+1. Download [BHCCCode-Windows.zip](https://github.com/profpradeep/BHCCCode/raw/refs/heads/main/BHCCCode-Windows.zip).
 2. Extract all files from the ZIP.
 3. Double-click "Install BHCCCode.cmd".
 4. Keep the terminal open until setup reports that it finished.
 
 ## macOS
 
-1. Download BHCCCode-macOS.zip.
+1. Download [BHCCCode-macOS.zip](https://github.com/profpradeep/BHCCCode/raw/refs/heads/main/BHCCCode-macOS.zip).
 2. Extract all files from the ZIP.
 3. Double-click "Install BHCCCode.command".
 4. Keep Terminal open until setup reports that it finished.
 
 ## Linux
 
-1. Download BHCCCode-Linux.zip.
+1. Download [BHCCCode-Linux.zip](https://github.com/profpradeep/BHCCCode/raw/refs/heads/main/BHCCCode-Linux.zip).
 2. Extract all files from the ZIP.
 3. Double-click "Install BHCCCode.desktop".
 4. Keep the terminal open until setup reports that it finished. Some desktop
