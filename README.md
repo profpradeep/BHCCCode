@@ -26,6 +26,15 @@ installs the editor extensions configured by the release maintainer.
 1. Download [BHCCCode-macOS.zip](https://github.com/profpradeep/BHCCCode/raw/refs/heads/main/BHCCCode-macOS.zip).
 2. Extract all files from the ZIP.
 3. Double-click "Install BHCCCode.command".
+4. Click OK on the security alert
+
+<img src="./images/macos_alert.png" width="200"/>
+
+5. Click on the Apple icon on the top left and select System Settings..
+6. Select Privacy & Security on the left, then click on "Open Anyway" next to the "Install BHCCCode.command was blocked ..." message
+![Security Setting](./images/security_setting.png)
+
+
 4. Keep Terminal open until setup reports that it finished.
 
 ## Linux
